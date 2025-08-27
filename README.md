@@ -31,7 +31,7 @@
 
   <!-- Career snapshot -->
   <p style="max-width:760px; text-align:left;">
-    I design & build responsive product landing pages, e-commerce UI, and dynamic web apps.
+    <strong>About Me:</strong> I design & build responsive product landing pages, e-commerce UI, and dynamic web apps.
     I focus on performance, accessibility (a11y), and delightful UX. Currently sharpening full-stack chops while
     specializing in modern front-end workflows (React, Vite, TypeScript). Hiring managers: I deliver ship-ready UI.
   </p>
